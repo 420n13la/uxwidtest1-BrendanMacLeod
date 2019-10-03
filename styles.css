@@ -1,3 +1,54 @@
 body{
+	font-family:"Helvetica,sans-serif";
+	background-image:"pattern.png";
+}
+div wrapper{
+	width:"77%"
+	background-color:"whitesmoke";
+	padding:3%;
+}
+frame{
+	
+}
+header{
+	margin:9px;
+	background-color:#95484b,#af595c;
+	
+}
 
+photo{
+	height:100%;
+	width:100%;
+	background-image:cohort.png;
+}
+
+legend{
+	text-color:#95484b;
+	font-size:bold;
+	background-color:white;
+	width:80:
+}
+logo{
+	width:11%;
+	margin:30px;
+}
+nav{
+	padding-top:-15px;
+	font-size:30%;
+}
+footer{
+	padding-top:1em;
+	padding-bottom:1em;
+	
+}
+a{
+	border:3px,solid,white;
+	background-color:#95484b;
+	padding:0.2em;
+
+
+span{
+	text-color:deepink;
+}
+	
 }
